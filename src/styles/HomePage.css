@@ -1,0 +1,19 @@
+/* Общий стиль для контейнера */
+.home-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa;
+  }
+  
+  /* Стиль заголовка */
+  .home-title {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Стиль параграфа */
+  .home-description {
+    font-size: 18px;
+    color: #666;
+  }
